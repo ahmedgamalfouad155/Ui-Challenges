@@ -1,16 +1,36 @@
-# ui_challenges
+# UI Challenges App
 
-A new Flutter project.
+A Flutter project showcasing multiple UI challenges, demonstrating advanced Flutter concepts like animations, drag & drop, and list manipulation. The app is divided into a **Home Page** with three buttons, each leading to a different challenge.
 
-## Getting Started
+---
+## 📽️ Demo
+### 📱 Mobile Version:
+[🔗 Click here to watch the demo video](https://drive.google.com/file/d/1SdQ5c-3fiNnb55gJF3ipR2KjXoEHwqsF/view?usp=sharing)
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## Features
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### 1️⃣ Animation Challenge
+- **Description:** Interactive animations where widgets scale, move, and respond to user interactions.  
+- **Widgets Used:** `AnimationController`, `AnimatedBuilder`, `AnimatedAlign`  
+- **Objective:** Demonstrates smooth transitions, scaling effects, and Flutter's animation capabilities.  
+- **Preview:**  
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+### 2️⃣ Color Challenge
+- **Description:** Drag and drop a colored ball onto a matching colored square.  
+- **Widgets Used:** `Draggable`, `DragTarget`  
+- **Objective:** Practice handling drag & drop gestures and matching UI elements by color.  
+- **Preview:**  
+
+---
+
+### 3️⃣ Task Challenge
+- **Description:** Manage a list of tasks with the ability to reorder or delete items.  
+- **Widgets Used:** `Dismissible`, `ReorderableListView`  
+- **Objective:** Demonstrates advanced list manipulation, including drag-to-reorder and swipe-to-delete functionalities.  
+- **Preview:**  
+
+
