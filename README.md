@@ -16,7 +16,6 @@ A Flutter project showcasing multiple UI challenges, demonstrating advanced Flut
 - **Widgets Used:** `AnimationController`, `AnimatedBuilder`, `AnimatedAlign`  
 - **Objective:** Demonstrates smooth transitions, scaling effects, and Flutter's animation capabilities.  
 - **Preview:**  
-  ![Animation Challenge](https://via.placeholder.com/400x300.png?text=Animation+Challenge)
 
 ---
 
@@ -25,7 +24,6 @@ A Flutter project showcasing multiple UI challenges, demonstrating advanced Flut
 - **Widgets Used:** `Draggable`, `DragTarget`  
 - **Objective:** Practice handling drag & drop gestures and matching UI elements by color.  
 - **Preview:**  
-  ![Color Challenge](https://via.placeholder.com/400x300.png?text=Color+Challenge)
 
 ---
 
@@ -35,17 +33,4 @@ A Flutter project showcasing multiple UI challenges, demonstrating advanced Flut
 - **Objective:** Demonstrates advanced list manipulation, including drag-to-reorder and swipe-to-delete functionalities.  
 - **Preview:**  
 
-  ### Demo Video
-<video width="600" controls>
-  <source src="https://github.com/ahmedgamalfouad155/Ui-Challenges/blob/main/1.mp4?raw=true" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
 
-
----
-
-## Installation
-
-1. Clone the repository:  
-```bash
-git clone https://github.com/ahmedgamalfouad155/Ui-Challenges.git
