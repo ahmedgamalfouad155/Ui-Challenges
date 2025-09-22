@@ -32,7 +32,14 @@ class _ListChalangeViewState extends State<ListChalangeView> {
               confirmDismiss: (direction) async {
                 return await delete_dialog(context);
               },
-              background: Container(color: Colors.red),
+              background: Container(
+                padding: const EdgeInsets.only(right: 10),
+                color: Colors.red,
+                child: Align(
+                  alignment: Alignment.centerRight,
+                  child: Icon(Icons.delete_outline, color: Colors.white),
+                ),
+              ),
               onDismissed: (direction) {
                 final removedItem = items[index];
                 final removedIndex = index;
